@@ -2,4 +2,10 @@
     header{
         flex-direction: column;
     }
+    /* card 1 */
+    /* card 2 */
+    .cartao-2{
+        width: 360px;
+        height: 500px;
+    }
 }
