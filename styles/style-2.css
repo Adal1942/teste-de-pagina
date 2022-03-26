@@ -3,9 +3,20 @@
         flex-direction: column;
     }
     /* card 1 */
+
     /* card 2 */
     .cartao-2{
         width: 360px;
-        height: 500px;
+        height: 480px;
     }
+    /* carousel */
+    .carrosel-2{
+        width: 360px;
+        height: 480px;
+        background: #fff;
+        color: #000;
+        margin-bottom: 50px;
+        box-shadow: 0 15px 45px 15px rgba(0,0,0,0.2);
+        padding: 30px 45px 0px 30px;   
+    }  
 }
