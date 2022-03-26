@@ -8,13 +8,13 @@
         margin-right: 8px;
     }
     li{
-        padding-left: 10px;
-        padding-right: 10px;
+        padding-left: 1px;
+        padding-right: 1px;
     }
     /* card 1 */
     .cartao{
         width: 400px;
-        height: 860px;
+        height: 830px;
         margin-top: 20px;
         flex-direction: column;   
     }
@@ -121,13 +121,13 @@
         margin-right: 8px;
     }
     li{
-        padding-left: 10px;
-        padding-right: 10px;
+        padding-left: 1px;
+        padding-right: 1px;
     }
     /* card 1 */
     .cartao{
         width: 370px;
-        height: 860px;
+        height: 830px;
         margin-top: 20px;
         flex-direction: column;   
     }
@@ -234,13 +234,14 @@
         margin-right: 8px;
     }
     li{
-        padding-left: 5px;
-        padding-right: 5px;
+        padding-left: 1px;
+        padding-right: 1px;
+        font-size: 15px;
     }
     /* card 1 */
     .cartao{
         width: 360px;
-        height: 860px;
+        height: 830px;
         margin-top: 20px;
         flex-direction: column;   
     }
@@ -347,13 +348,14 @@
         margin-right: 8px;
     }
     li{
-        padding-left: 5px;
-        padding-right: 5px;
+        padding-left: 1px;
+        padding-right: 1px;
+        font-size: 13px;
     }
     /* card 1 */
     .cartao{
         width: 340px;
-        height: 860px;
+        height: 830px;
         margin-top: 20px;
         flex-direction: column;   
     }
