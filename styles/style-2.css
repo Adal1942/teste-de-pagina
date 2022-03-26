@@ -2,16 +2,89 @@
     header{
         flex-direction: column;
     }
+    #title{
+        line-height: 30px;
+        padding-left: 45px;
+        margin-top: 5px;
+    }
+    li{
+        margin: 10px;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
     /* card 1 */
+    .cartao{
+        width: 400px;
+        height: 950px;
+        margin-top: 20px;
+        flex-direction: column;   
+    }
+    .cartao .imgBx{
+        margin-top: 20px;
+        min-width: 400px;
+        height: 50%;   
+    }
+    .cartao .imgBx img{
+        max-width: 310px;
+    }
+    .cartao .detalhes{
+        position: relative;
+        width: 400px;
+        height: 100%;
+        background: #fff;
+        padding: 20px 35px 0px 20px;
+    }
+    .titulo{
+        width: 400px;
+    }
+    .avaliacoes{
+        margin-top: 15px;
+    }
+    .estrelas{
+        font-size: 15px;
+    }
+    .avaliacao{
+        font-size: 15px;
+    }
+    .vendidos{
+        font-size: 15px;
+    }
+    .preco{
+        padding: 10px 25px;
+        font-size: 30px;
+        font-weight: 500;
+    }
+    .quantidade{
+        font-size: 15px;
+    }
+    .disponivel{
+        font-size: 11px;
+    }
+    .comprar{
+        margin-top: 25px;
+        width: 220px;
+        height: 60px;
+    }
+    .comprei{
+        font-size: 15px;   
+    }
+    .carro{
+        margin-top: 15px;
+        width: 220px;
+        height: 60px;
+    }
+    .carrinho{
+        font-size: 15px;
+    }
 
     /* card 2 */
     .cartao-2{
-        width: 360px;
+        width: 400px;
         height: 480px;
     }
     /* carousel */
     .carrosel-2{
-        width: 360px;
+        width: 400px;
         height: 480px;
         background: #fff;
         color: #000;
