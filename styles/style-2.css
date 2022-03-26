@@ -15,7 +15,7 @@
     /* card 1 */
     .cartao{
         width: 400px;
-        height: 950px;
+        height: 860px;
         margin-top: 20px;
         flex-direction: column;   
     }
